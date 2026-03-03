@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Athanasia Lamprou aka @athalamprou
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Android+Developer;AR%2FCloud+Anchors+Researcher;NKUA+Computer+Science+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Junior+Android+Developer;AR%2FCloud+Anchors+Researcher;NKUA+Digital+Industry+Student;Actively+Pursuing+CS+Roles" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
